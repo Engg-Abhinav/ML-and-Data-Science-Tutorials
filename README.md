@@ -1,2 +1,4 @@
-# DS-Projects
-Projects on Data Science
+# Machine Learning and Data Science Tutorials
+
+- Machine Leanring Tutorials
+- Data Science Tutorials
